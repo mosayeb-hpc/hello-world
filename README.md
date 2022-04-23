@@ -6,4 +6,4 @@ This tutorial focuses mainly on git and using GitHub as remote
 This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
-U
+
